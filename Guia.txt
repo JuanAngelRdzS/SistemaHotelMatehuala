@@ -1,8 +1,0 @@
-el link del archivo fue subido a mega debido a que problemas con github
-
-nueva version 
-https://mega.nz/file/cOIiWJSZ#sRCz8mh7XG9hFS-H6_GLAtJ1jeKmpad3Qx35bYXiB78
-
-requieren Xampp con PHP version 7.2
-link de descarga
-https://mega.nz/file/oGQE2LLR#YLgtFiIMgDklPYLmZuguFQHa33kN-YnBSemeJGJH7AI
